@@ -1,0 +1,52 @@
+  {
+    "róża": {
+      "opis": "Róża to roślina z rodziny różowatych. Występuje w różnych kolorach i odmianach, a uprawiana jest ze względu na swoje piękne kwiaty.",
+      "wikipedia": "https://pl.wikipedia.org/wiki/R%C3%B3%C5%BCa",
+      "zdjęcie": "https://images.pexels.com/photos/861055/pexels-photo-861055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    "lilia": {
+      "opis": "Lilia to roślina z rodziny liliowatych. Charakteryzuje się pięknymi, dzwonkowatymi kwiatami w różnych kolorach.",
+      "wikipedia": "https://pl.wikipedia.org/wiki/Lilia",
+      "zdjęcie": "https://images.pexels.com/photos/1918331/pexels-photo-1918331.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    "słonecznik": {
+      "opis": "Słonecznik to roślina z rodziny astrowatych. Charakteryzuje się dużymi, żółtymi kwiatami oraz dużymi nasionami, które są popularnym składnikiem kulinarnym.",
+      "wikipedia": "https://pl.wikipedia.org/wiki/S%C5%82onecznik",
+      "zdjęcie": "https://images.pexels.com/photos/48257/sunflower-sun-summer-yellow-48257.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    "fiołek": {
+      "opis": "Fiołek to roślina z rodziny fiołkowatych. Charakteryzuje się małymi, ale pięknymi kwiatami w różnych kolorach.",
+      "wikipedia": "https://pl.wikipedia.org/wiki/Fio%C5%82ek",
+      "zdjęcie": "https://images.pexels.com/photos/3033832/pexels-photo-3033832.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    "krokus": {
+      "opis": "Krokus to roślina z rodziny kosaćcowatych. Charakteryzuje się pięknymi kwiatami w kolorach fioletowym, białym i żółtym.",
+      "wikipedia": "https://pl.wikipedia.org/wiki/Krokus",
+      "zdjęcie": "https://images.pexels.com/photos/3301723/pexels-photo-3301723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    "bluszcz": {
+        "opis": "Bluszcz to wiecznie zielona roślina pnąca z rodziny araliowatych. Charakteryzuje się ciemnozielonymi liśćmi i dobrze rośnie na podłożu wilgotnym.",
+        "wikipedia": "https://pl.wikipedia.org/wiki/Bluszcz_pospolity",
+        "zdjęcie": "https://images.pexels.com/photos/243772/pexels-photo-243772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      "palma": {
+        "opis": "Palma to roślina z rodziny arekowatych, charakterystyczna dla obszarów tropikalnych i subtropikalnych. W domowych warunkach często uprawia się miniaturki palm, które mają piękne, eleganckie liście.",
+        "wikipedia": "https://pl.wikipedia.org/wiki/Palmy",
+        "zdjęcie": "https://images.pexels.com/photos/2490486/pexels-photo-2490486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      "hiacynt": {
+        "opis": "Hiacynt to roślina cebulowa z rodziny szparagowatych. Charakteryzuje się pięknymi kwiatami w kolorach białym, różowym i niebieskim.",
+        "wikipedia": "https://pl.wikipedia.org/wiki/Hiacynt",
+        "zdjęcie": "https://images.pexels.com/photos/207962/pexels-photo-207962.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      "begonia": {
+        "opis": "Begonia to roślina z rodziny begoniowatych. Charakteryzuje się pięknymi, miękkimi liśćmi i kwiatami w różnych kolorach.",
+        "wikipedia": "https://pl.wikipedia.org/wiki/Begonia",
+        "zdjęcie": "https://images.pexels.com/photos/3826762/pexels-photo-3826762.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      },
+      "paproć": {
+        "opis": "Paproć to roślina z rodziny paprotkowatych. Charakteryzuje się pięknymi, delikatnymi liśćmi i dobrze rośnie w miejscach o umiarkowanym oświetleniu i wilgotności.",
+        "wikipedia": "https://pl.wikipedia.org/wiki/Paprocie",
+        "zdjęcie": "https://images.pexels.com/photos/205103/pexels-photo-205103.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      }
+  }
